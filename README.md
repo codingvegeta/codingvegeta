@@ -26,6 +26,17 @@
 </p> -->
 
 <br />
+
+
+##  GitHub Stats
+
+[![Hongsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingvegeta&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## BackJoon
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ghdtjr9209)](https://solved.ac/ghdtjr9209)
+
 <h2> My tech stack 📚 </h2>
 
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java)
@@ -50,6 +61,8 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 <br>
+
+
   
 <h2> how to do </h2>
 
