@@ -30,7 +30,7 @@
 
 ##  GitHub Stats
 
-[![Hongsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingvegeta&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Hongsuk's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingvegeta&show_icons=true&theme=great-gatsby)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## BackJoon
