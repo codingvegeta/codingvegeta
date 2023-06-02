@@ -44,7 +44,7 @@
 ![JAVA SCRIPT] <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 ![TYPE SCRUPT] <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
 ![NODE.JS] <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-![EXPRESS] <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white">
+![EXPRESS] <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"><p>
 
 <br>
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
