@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img src="http://jjal.download/files/1_9d92d56b39b74d01003643f3e85525bbfa3dbef0.gif">
+<img src="http://jjal.download/files/1_46aa4a2298463e9cee7c09e0353ec675146657ad.gif"><img src="http://jjal.download/files/1_9d92d56b39b74d01003643f3e85525bbfa3dbef0.gif"><img src="http://jjal.download/files/1_e56a8b4b4a39b5f5e56f3bf595efd6aff936ec22.gif">
+
 <h1> work hard 💻</h1>
 <h3><i>“how to do good”</i></h3>
 <!--<h5>Linus</h5>-->
