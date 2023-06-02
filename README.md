@@ -38,17 +38,17 @@
 
 <h2> My tech stack 📚 </h2>
 
-![JAVA]<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white">
+![JAVA](https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![Spring](https://img.shields.io/badge/-spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/-springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![JAVA SCRIPT] <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-![TYPE SCRUPT] <img src="https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-![NODE.JS] <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
-![EXPRESS] <img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"><p>
+![JAVA SCRIPT](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TYPE SCRUPT](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![NODE.JS](https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white)
+![EXPRESS](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 <br>
 ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery) <p>
+![jQuery](https://img.shields.io/badge/-jQuery-0769AD?style=for-the-badge&logo=jQuery)
 ![MySQL](https://img.shields.io/badge/MySql-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
